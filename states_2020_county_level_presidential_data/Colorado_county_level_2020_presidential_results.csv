@@ -1,0 +1,65 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Colorado,8001,Adams County,95657,134202,236735
+Colorado,8003,Alamosa County,3813,3759,7808
+Colorado,8005,Arapahoe County,127323,213607,350183
+Colorado,8007,Archuleta County,5189,3738,9144
+Colorado,8009,Baca County,1867,317,2225
+Colorado,8011,Bent County,1503,732,2274
+Colorado,8013,Boulder County,42501,159089,206111
+Colorado,8014,Broomfield County,16295,29077,46632
+Colorado,8015,Chaffee County,6222,7160,13717
+Colorado,8017,Cheyenne County,993,131,1136
+Colorado,8019,Clear Creek County,2754,3604,6548
+Colorado,8021,Conejos County,2286,1959,4333
+Colorado,8023,Costilla County,741,1311,2094
+Colorado,8025,Crowley County,1271,437,1750
+Colorado,8027,Custer County,2474,1112,3634
+Colorado,8029,Delta County,13081,5887,19370
+Colorado,8031,Denver County,71618,313293,393827
+Colorado,8033,Dolores County,1089,341,1449
+Colorado,8035,Douglas County,121270,104653,231599
+Colorado,8037,Eagle County,9892,18588,29140
+Colorado,8039,Elbert County,14027,4490,18983
+Colorado,8041,El Paso County,202828,161941,378849
+Colorado,8043,Fremont County,17517,7369,25557
+Colorado,8045,Garfield County,14717,15427,30904
+Colorado,8047,Gilpin County,1833,2223,4186
+Colorado,8049,Grand County,4883,4710,9870
+Colorado,8051,Gunnison County,3735,7132,11190
+Colorado,8053,Hinsdale County,353,255,632
+Colorado,8055,Huerfano County,2203,2076,4406
+Colorado,8057,Jackson County,681,175,876
+Colorado,8059,Jefferson County,148417,218396,377357
+Colorado,8061,Kiowa County,795,98,903
+Colorado,8063,Kit Carson County,3144,662,3871
+Colorado,8065,Lake County,1497,2303,3961
+Colorado,8067,La Plata County,14233,20548,35667
+Colorado,8069,Larimer County,91489,126120,224338
+Colorado,8071,Las Animas County,4284,3497,7961
+Colorado,8073,Lincoln County,2135,470,2651
+Colorado,8075,Logan County,8087,2218,10532
+Colorado,8077,Mesa County,56894,31536,90622
+Colorado,8079,Mineral County,427,317,756
+Colorado,8081,Moffat County,5670,1203,7026
+Colorado,8083,Montezuma County,9306,5836,15500
+Colorado,8085,Montrose County,16770,7687,24922
+Colorado,8087,Morgan County,9593,3876,13744
+Colorado,8089,Otero County,5756,3605,9576
+Colorado,8091,Ouray County,1577,2365,4020
+Colorado,8093,Park County,6991,4903,12290
+Colorado,8095,Phillips County,1958,486,2485
+Colorado,8097,Pitkin County,2780,8989,11957
+Colorado,8099,Prowers County,4008,1458,5561
+Colorado,8101,Pueblo County,42252,43772,88299
+Colorado,8103,Rio Blanco County,3061,561,3691
+Colorado,8105,Rio Grande County,3660,2495,6305
+Colorado,8107,Routt County,5925,10582,16876
+Colorado,8109,Saguache County,1413,1884,3389
+Colorado,8111,San Juan County,202,342,563
+Colorado,8113,San Miguel County,1136,3924,5147
+Colorado,8115,Sedgwick County,1121,301,1446
+Colorado,8117,Summit County,5322,12631,18479
+Colorado,8119,Teller County,11241,5278,16939
+Colorado,8121,Washington County,2595,369,3008
+Colorado,8123,Weld County,96145,66060,166968
+Colorado,8125,Yuma County,4107,785,4981

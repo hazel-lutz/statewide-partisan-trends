@@ -1,0 +1,30 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Utah,49001,Beaver County,2695,357,3100
+Utah,49003,Box Elder County,21548,4473,27027
+Utah,49005,Cache County,38032,16650,57571
+Utah,49007,Carbon County,6693,2392,9369
+Utah,49009,Daggett County,496,111,619
+Utah,49011,Davis County,104135,57411,169895
+Utah,49013,Duchesne County,7513,843,8524
+Utah,49015,Emery County,4207,572,4865
+Utah,49017,Garfield County,2158,514,2732
+Utah,49019,Grand County,2248,2806,5185
+Utah,49021,Iron County,18989,4892,24890
+Utah,49023,Juab County,5087,645,5866
+Utah,49025,Kane County,2998,1083,4180
+Utah,49027,Millard County,5404,624,6160
+Utah,49029,Morgan County,5181,1086,6512
+Utah,49031,Piute County,773,86,871
+Utah,49033,Rich County,1157,180,1363
+Utah,49035,Salt Lake County,230174,289906,541175
+Utah,49037,San Juan County,3535,3113,6878
+Utah,49039,Sanpete County,10459,1794,12631
+Utah,49041,Sevier County,9052,1084,10363
+Utah,49043,Summit County,10252,15244,26088
+Utah,49045,Tooele County,21014,8943,31518
+Utah,49047,Uintah County,13261,1663,15307
+Utah,49049,Utah County,192812,76033,284480
+Utah,49051,Wasatch County,10795,6187,17581
+Utah,49053,Washington County,67294,20530,90476
+Utah,49055,Wayne County,1229,365,1621
+Utah,49057,Weber County,65949,40695,111442

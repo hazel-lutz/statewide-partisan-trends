@@ -1,0 +1,15 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Massachusetts,25001,Barnstable County,55311,91994,150325
+Massachusetts,25003,Berkshire County,18064,51705,71375
+Massachusetts,25005,Bristol County,119872,153377,279279
+Massachusetts,25007,Dukes County,2631,9914,12798
+Massachusetts,25009,Essex County,144837,267198,421210
+Massachusetts,25011,Franklin County,11201,30030,42458
+Massachusetts,25013,Hampden County,87318,125948,218177
+Massachusetts,25015,Hampshire County,22281,63362,87854
+Massachusetts,25017,Middlesex County,226956,617196,863577
+Massachusetts,25019,Nantucket County,1914,5241,7306
+Massachusetts,25021,Norfolk County,125294,273312,407751
+Massachusetts,25023,Plymouth County,121227,173630,301816
+Massachusetts,25025,Suffolk County,58613,270522,335462
+Massachusetts,25027,Worcester County,171683,248773,432014

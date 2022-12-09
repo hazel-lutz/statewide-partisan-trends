@@ -1,0 +1,9 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Connecticut,9001,Fairfield County,169039,297505,472990
+Connecticut,9003,Hartford County,159024,283368,449336
+Connecticut,9005,Litchfield County,55601,50164,107544
+Connecticut,9007,Middlesex County,40665,56848,99203
+Connecticut,9009,New Haven County,169892,242629,417980
+Connecticut,9011,New London County,57110,79459,139604
+Connecticut,9013,Tolland County,34819,44006,80546
+Connecticut,9015,Windham County,29141,26701,57077

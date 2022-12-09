@@ -1,0 +1,15 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Vermont,50001,Addison County,6292,14967,22022
+Vermont,50003,Bennington County,7114,12705,20462
+Vermont,50005,Caledonia County,6551,9011,16169
+Vermont,50007,Chittenden County,21017,74961,98915
+Vermont,50009,Essex County,1773,1405,3288
+Vermont,50011,Franklin County,11274,13611,25830
+Vermont,50013,Grand Isle County,1810,2905,4851
+Vermont,50015,Lamoille County,4163,10240,14915
+Vermont,50017,Orange County,6187,10304,17122
+Vermont,50019,Orleans County,6512,7147,14096
+Vermont,50021,Rutland County,14672,18230,33970
+Vermont,50023,Washington County,8928,25191,35307
+Vermont,50025,Windham County,6440,18767,26035
+Vermont,50027,Windsor County,9971,23376,34446

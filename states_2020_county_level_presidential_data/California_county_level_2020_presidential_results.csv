@@ -1,0 +1,59 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+California,6001,Alameda County,136309,617659,769864
+California,6003,Alpine County,244,476,741
+California,6005,Amador County,13585,8153,22302
+California,6007,Butte County,48730,50426,102042
+California,6009,Calaveras County,16518,10046,27164
+California,6011,Colusa County,4554,3234,7951
+California,6013,Contra Costa County,152877,416386,581230
+California,6015,Del Norte County,6461,4677,11452
+California,6017,El Dorado County,61838,51621,116138
+California,6019,Fresno County,164464,193025,364809
+California,6021,Glenn County,7063,3995,11292
+California,6023,Humboldt County,21770,44768,68828
+California,6025,Imperial County,20847,34678,56718
+California,6027,Inyo County,4620,4634,9481
+California,6029,Kern County,164484,133366,305226
+California,6031,Kings County,24072,18699,43858
+California,6033,Lake County,13123,14941,28800
+California,6035,Lassen County,8970,2799,11985
+California,6037,Los Angeles County,1145530,3028885,4263443
+California,6039,Madera County,29378,23168,53722
+California,6041,Marin County,24612,128288,155801
+California,6043,Mariposa County,5950,4088,10280
+California,6045,Mendocino County,13267,28782,43336
+California,6047,Merced County,39397,48991,90541
+California,6049,Modoc County,3109,1150,4338
+California,6051,Mono County,2513,4013,6737
+California,6053,Monterey County,46299,113953,163883
+California,6055,Napa County,20676,49817,72122
+California,6057,Nevada County,26779,36359,64738
+California,6059,Orange County,676498,814009,1521725
+California,6061,Placer County,122488,106869,235017
+California,6063,Plumas County,6445,4561,11256
+California,6065,Riverside County,448702,527945,996156
+California,6067,Sacramento County,259405,440808,718290
+California,6069,San Benito County,10590,17628,28821
+California,6071,San Bernardino County,366257,455859,840931
+California,6073,San Diego County,600094,964650,1601722
+California,6075,San Francisco County,56417,378156,443458
+California,6077,San Joaquin County,121098,161137,288443
+California,6079,San Luis Obispo County,67436,88310,159681
+California,6081,San Mateo County,75563,291410,374138
+California,6083,Santa Barbara County,65736,129963,200288
+California,6085,Santa Clara County,214612,617967,850522
+California,6087,Santa Cruz County,26937,114246,144796
+California,6089,Shasta County,60789,30000,92900
+California,6091,Sierra County,1142,730,1930
+California,6093,Siskiyou County,13290,9593,23450
+California,6095,Solano County,69306,131639,205831
+California,6097,Sonoma County,61825,199938,268252
+California,6099,Stanislaus County,104145,105841,214876
+California,6101,Sutter County,24375,17367,42640
+California,6103,Tehama County,19141,8911,28721
+California,6105,Trinity County,3188,2851,6258
+California,6107,Tulare County,77579,66105,146832
+California,6109,Tuolumne County,17689,11978,30401
+California,6111,Ventura County,162207,251388,422698
+California,6113,Yolo County,27292,67598,97264
+California,6115,Yuba County,17676,11230,29787

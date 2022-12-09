@@ -1,0 +1,5 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Hawaii,15001,Hawaii County,26897,58731,87814
+Hawaii,15003,Honolulu County,136259,238869,382114
+Hawaii,15007,Kauai County,11582,21225,33497
+Hawaii,15009,Maui County,22126,47305,71044

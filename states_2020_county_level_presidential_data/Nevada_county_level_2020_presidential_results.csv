@@ -1,0 +1,18 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Nevada,32001,Churchill County,9372,3051,12890
+Nevada,32003,Clark County,430930,521852,972510
+Nevada,32005,Douglas County,21630,11571,34125
+Nevada,32007,Elko County,16741,4557,21967
+Nevada,32009,Esmeralda County,400,74,487
+Nevada,32011,Eureka County,895,105,1017
+Nevada,32013,Humboldt County,5877,1689,7771
+Nevada,32015,Lander County,2198,496,2765
+Nevada,32017,Lincoln County,2067,330,2446
+Nevada,32019,Lyon County,20914,8473,30238
+Nevada,32021,Mineral County,1423,829,2335
+Nevada,32023,Nye County,17528,7288,25378
+Nevada,32027,Pershing County,1731,547,2320
+Nevada,32029,Storey County,1908,902,2877
+Nevada,32031,Washoe County,116760,128128,252142
+Nevada,32033,White Pine County,3403,859,4369
+Nevada,32510,Carson City,16113,12735,29739

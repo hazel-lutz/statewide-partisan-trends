@@ -1,0 +1,2 @@
+select state_name, county_fips, county_name, votes_gop, votes_dem, total_votes
+from 2020_presidential_county_results.`2020_us_county_level_presidential_results`

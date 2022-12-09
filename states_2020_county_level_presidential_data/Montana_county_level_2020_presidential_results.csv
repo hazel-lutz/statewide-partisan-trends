@@ -1,0 +1,57 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Montana,30001,Beaverhead County,3923,1608,5661
+Montana,30003,Big Horn County,2207,2491,4784
+Montana,30005,Blaine County,1469,1589,3117
+Montana,30007,Broadwater County,3173,835,4097
+Montana,30009,Carbon County,4468,2421,7101
+Montana,30011,Carter County,775,74,864
+Montana,30013,Cascade County,23315,15456,39885
+Montana,30015,Chouteau County,1891,991,2974
+Montana,30017,Custer County,4205,1514,5883
+Montana,30019,Daniels County,799,195,1014
+Montana,30021,Dawson County,3758,962,4837
+Montana,30023,Deer Lodge County,2186,2562,4891
+Montana,30025,Fallon County,1375,172,1575
+Montana,30027,Fergus County,4869,1496,6531
+Montana,30029,Flathead County,38321,20274,60258
+Montana,30031,Gallatin County,31696,37044,71507
+Montana,30033,Garfield County,764,41,813
+Montana,30035,Glacier County,1884,3610,5639
+Montana,30037,Golden Valley County,414,78,503
+Montana,30039,Granite County,1419,638,2102
+Montana,30041,Hill County,3957,2981,7182
+Montana,30043,Jefferson County,5345,2625,8191
+Montana,30045,Judith Basin County,1040,275,1344
+Montana,30047,Lake County,9322,6916,16626
+Montana,30049,Lewis and Clark County,21409,19743,42485
+Montana,30051,Liberty County,821,249,1083
+Montana,30053,Lincoln County,8672,2835,11747
+Montana,30055,McCone County,956,155,1128
+Montana,30057,Madison County,4191,1771,6113
+Montana,30059,Meagher County,833,258,1110
+Montana,30061,Mineral County,1828,686,2563
+Montana,30063,Missoula County,26347,43357,71986
+Montana,30065,Musselshell County,2423,413,2881
+Montana,30067,Park County,6025,5280,11618
+Montana,30069,Petroleum County,298,39,351
+Montana,30071,Phillips County,1936,416,2386
+Montana,30073,Pondera County,2031,903,2995
+Montana,30075,Powder River County,970,154,1136
+Montana,30077,Powell County,2355,752,3195
+Montana,30079,Prairie County,603,126,744
+Montana,30081,Ravalli County,19114,8763,28507
+Montana,30083,Richland County,4800,875,5798
+Montana,30085,Roosevelt County,1996,1910,4028
+Montana,30087,Rosebud County,2486,1199,3784
+Montana,30089,Sanders County,5660,1820,7652
+Montana,30091,Sheridan County,1403,574,2030
+Montana,30093,Silver Bow County,7745,10392,18827
+Montana,30095,Stillwater County,4462,1156,5741
+Montana,30097,Sweet Grass County,1840,549,2446
+Montana,30099,Teton County,2608,1007,3695
+Montana,30101,Toole County,1596,467,2123
+Montana,30103,Treasure County,373,78,460
+Montana,30105,Valley County,3135,1030,4272
+Montana,30107,Wheatland County,823,225,1068
+Montana,30109,Wibaux County,516,77,598
+Montana,30111,Yellowstone County,50772,30679,83821

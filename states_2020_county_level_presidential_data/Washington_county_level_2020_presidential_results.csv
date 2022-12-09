@@ -1,0 +1,40 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Washington,53001,Adams County,3907,1814,5862
+Washington,53003,Asotin County,7319,4250,11951
+Washington,53005,Benton County,60365,38706,103033
+Washington,53007,Chelan County,22746,19349,43306
+Washington,53009,Clallam County,23062,24721,49264
+Washington,53011,Clark County,126303,140324,275403
+Washington,53013,Columbia County,1754,668,2495
+Washington,53015,Cowlitz County,34424,23938,60280
+Washington,53017,Douglas County,12955,7811,21308
+Washington,53019,Ferry County,2771,1486,4367
+Washington,53021,Franklin County,18039,13340,32404
+Washington,53023,Garfield County,1069,366,1489
+Washington,53025,Grant County,24764,11819,37680
+Washington,53027,Grays Harbor County,19877,17354,38441
+Washington,53029,Island County,22746,29213,53925
+Washington,53031,Jefferson County,6931,17204,24792
+Washington,53033,King County,269167,907310,1210507
+Washington,53035,Kitsap County,61563,90277,158672
+Washington,53037,Kittitas County,14105,11421,26364
+Washington,53039,Klickitat County,7237,5959,13560
+Washington,53041,Lewis County,29391,14520,45309
+Washington,53043,Lincoln County,5150,1713,7033
+Washington,53045,Mason County,18710,17269,37303
+Washington,53047,Okanogan County,11840,8900,21282
+Washington,53049,Pacific County,6953,6794,14064
+Washington,53051,Pend Oreille County,5728,2593,8553
+Washington,53053,Pierce County,197730,249506,464081
+Washington,53055,San Juan County,3057,9725,13197
+Washington,53057,Skagit County,32762,38252,73423
+Washington,53059,Skamania County,3885,3192,7312
+Washington,53061,Snohomish County,166428,256728,438796
+Washington,53063,Spokane County,148576,135765,295430
+Washington,53065,Stevens County,19808,7839,28430
+Washington,53067,Thurston County,65277,96608,168134
+Washington,53069,Wahkiakum County,1741,1165,2981
+Washington,53071,Walla Walla County,16400,13690,31261
+Washington,53073,Whatcom County,50489,83660,138620
+Washington,53075,Whitman County,9067,11184,21126
+Washington,53077,Yakima County,50555,43179,96193

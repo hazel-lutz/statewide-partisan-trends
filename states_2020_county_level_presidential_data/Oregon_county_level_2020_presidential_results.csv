@@ -1,0 +1,37 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Oregon,41001,Baker County,7352,2346,9932
+Oregon,41003,Benton County,14878,35827,52799
+Oregon,41005,Clackamas County,110509,139043,257679
+Oregon,41007,Clatsop County,10218,12916,23910
+Oregon,41009,Columbia County,17150,13835,32221
+Oregon,41011,Coos County,21829,14243,37075
+Oregon,41013,Crook County,11287,3801,15448
+Oregon,41015,Curry County,8484,6058,14925
+Oregon,41017,Deschutes County,55646,65962,125234
+Oregon,41019,Douglas County,43298,19160,64349
+Oregon,41021,Gilliam County,834,324,1178
+Oregon,41023,Grant County,3545,929,4596
+Oregon,41025,Harney County,3475,894,4481
+Oregon,41027,Hood River County,3955,8764,13090
+Oregon,41029,Jackson County,63869,59478,127165
+Oregon,41031,Jefferson County,7189,4393,11913
+Oregon,41033,Josephine County,31751,18451,51641
+Oregon,41035,Klamath County,25308,10388,36726
+Oregon,41037,Lake County,3470,792,4363
+Oregon,41039,Lane County,80336,134366,222253
+Oregon,41041,Lincoln County,12460,17385,30726
+Oregon,41043,Linn County,43486,26512,72640
+Oregon,41045,Malheur County,8187,3260,11804
+Oregon,41047,Marion County,79002,80872,165534
+Oregon,41049,Morrow County,3586,1371,5118
+Oregon,41051,Multnomah County,82995,367249,463659
+Oregon,41053,Polk County,23732,22917,48291
+Oregon,41055,Sherman County,921,260,1208
+Oregon,41057,Tillamook County,8354,8066,16888
+Oregon,41059,Umatilla County,21270,10707,33038
+Oregon,41061,Union County,10298,4254,14944
+Oregon,41063,Wallowa County,3404,1625,5149
+Oregon,41065,Wasco County,7035,6604,14130
+Oregon,41067,Washington County,99073,209940,320326
+Oregon,41069,Wheeler County,711,217,965
+Oregon,41071,Yamhill County,29551,27174,58923

@@ -1,0 +1,134 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Virginia,51001,Accomack County,9172,7578,16962
+Virginia,51003,Albemarle County,20804,42466,64657
+Virginia,51005,Alleghany County,5859,2243,8203
+Virginia,51007,Amelia County,5390,2411,7893
+Virginia,51009,Amherst County,11041,5672,17005
+Virginia,51011,Appomattox County,6702,2418,9268
+Virginia,51013,Arlington County,22318,105344,130699
+Virginia,51015,Augusta County,30714,10840,42278
+Virginia,51017,Bath County,1834,646,2501
+Virginia,51019,Bedford County,35600,12176,48669
+Virginia,51021,Bland County,2903,532,3479
+Virginia,51023,Botetourt County,15099,5700,21120
+Virginia,51025,Brunswick County,3357,4552,7948
+Virginia,51027,Buchanan County,8311,1587,9953
+Virginia,51029,Buckingham County,4544,3471,8126
+Virginia,51031,Campbell County,21245,8070,29892
+Virginia,51033,Caroline County,8336,7657,16288
+Virginia,51035,Carroll County,12659,2842,15651
+Virginia,51036,Charles City County,1761,2624,4441
+Virginia,51037,Charlotte County,3815,2317,6191
+Virginia,51041,Chesterfield County,93326,106935,203884
+Virginia,51043,Clarke County,5192,3920,9337
+Virginia,51045,Craig County,2536,587,3169
+Virginia,51047,Culpeper County,16012,10617,27116
+Virginia,51049,Cumberland County,3019,2227,5310
+Virginia,51051,Dickenson County,5748,1503,7303
+Virginia,51053,Dinwiddie County,8695,6224,15092
+Virginia,51057,Essex County,3075,3038,6178
+Virginia,51059,Fairfax County,168401,419943,600823
+Virginia,51061,Fauquier County,25106,17565,43661
+Virginia,51063,Floyd County,6225,3004,9408
+Virginia,51065,Fluvanna County,8155,7414,15840
+Virginia,51067,Franklin County,20895,8381,29702
+Virginia,51069,Frederick County,30558,17207,48703
+Virginia,51071,Giles County,6876,2156,9176
+Virginia,51073,Gloucester County,14875,6964,22282
+Virginia,51075,Goochland County,9966,6685,16950
+Virginia,51077,Grayson County,6529,1535,8131
+Virginia,51079,Greene County,6866,4163,11311
+Virginia,51081,Greensville County,1914,2627,4574
+Virginia,51083,Halifax County,10418,7666,18248
+Virginia,51085,Hanover County,44318,25307,70967
+Virginia,51087,Henrico County,63440,116572,183152
+Virginia,51089,Henry County,16725,9127,26105
+Virginia,51091,Highland County,1092,417,1533
+Virginia,51093,Isle of Wight County,13707,9399,23456
+Virginia,51095,James City County,23153,25553,49622
+Virginia,51097,King and Queen County,2450,1590,4115
+Virginia,51099,King George County,8446,5404,14224
+Virginia,51101,King William County,7320,3260,10736
+Virginia,51103,Lancaster County,3697,3368,7152
+Virginia,51105,Lee County,8365,1489,9946
+Virginia,51107,Loudoun County,82088,138372,224862
+Virginia,51109,Louisa County,13294,8269,21915
+Virginia,51111,Lunenburg County,3537,2418,6000
+Virginia,51113,Madison County,5300,2698,8129
+Virginia,51115,Mathews County,3901,1825,5826
+Virginia,51117,Mecklenburg County,9266,6803,16204
+Virginia,51119,Middlesex County,4196,2491,6785
+Virginia,51121,Montgomery County,20629,23218,45037
+Virginia,51125,Nelson County,4812,4327,9316
+Virginia,51127,New Kent County,9631,4621,14463
+Virginia,51131,Northampton County,2955,3667,6732
+Virginia,51133,Northumberland County,4485,3252,7815
+Virginia,51135,Nottoway County,4027,2971,7078
+Virginia,51137,Orange County,12426,7995,20742
+Virginia,51139,Page County,9345,3007,12514
+Virginia,51141,Patrick County,7485,1954,9534
+Virginia,51143,Pittsylvania County,23751,10115,34227
+Virginia,51145,Powhatan County,14055,5320,19730
+Virginia,51147,Prince Edward County,4434,4973,9574
+Virginia,51149,Prince George County,10103,7103,17432
+Virginia,51153,Prince William County,81222,142863,228056
+Virginia,51155,Pulaski County,12127,4925,17376
+Virginia,51157,Rappahannock County,2812,2096,4978
+Virginia,51159,Richmond County,2547,1513,4102
+Virginia,51161,Roanoke County,34268,21801,57184
+Virginia,51163,Rockbridge County,8088,4086,12373
+Virginia,51165,Rockingham County,30349,12644,43811
+Virginia,51167,Russell County,10879,2373,13386
+Virginia,51169,Scott County,9063,1692,10869
+Virginia,51171,Shenandoah County,16463,6836,23684
+Virginia,51173,Smyth County,10963,3008,14136
+Virginia,51175,Southampton County,5730,3969,9786
+Virginia,51177,Spotsylvania County,39411,34307,75317
+Virginia,51179,Stafford County,37636,40245,79625
+Virginia,51181,Surry County,2025,2397,4471
+Virginia,51183,Sussex County,2219,2827,5088
+Virginia,51185,Tazewell County,16731,3205,20134
+Virginia,51187,Warren County,14069,6603,21147
+Virginia,51191,Washington County,21679,6617,28685
+Virginia,51193,Westmoreland County,5318,4501,9933
+Virginia,51195,Wise County,13366,3110,16615
+Virginia,51197,Wythe County,11733,3143,15072
+Virginia,51199,York County,20241,17683,38787
+Virginia,51510,Alexandria city,14544,66240,82508
+Virginia,51520,Bristol city,5347,2313,7806
+Virginia,51530,Buena Vista city,1863,825,2776
+Virginia,51540,Charlottesville city,3094,20696,24205
+Virginia,51550,Chesapeake city,58180,66377,127108
+Virginia,51570,Colonial Heights city,6007,2972,9146
+Virginia,51580,Covington city,1580,964,2603
+Virginia,51590,Danville city,7428,11710,19389
+Virginia,51595,Emporia city,754,1612,2381
+Virginia,51600,Fairfax city,4007,9174,13483
+Virginia,51610,Falls Church city,1490,7146,8819
+Virginia,51620,Franklin city,1487,2525,4058
+Virginia,51630,Fredericksburg city,4037,8517,12862
+Virginia,51640,Galax city,1838,777,2638
+Virginia,51650,Hampton city,18430,46220,65901
+Virginia,51660,Harrisonburg city,5591,11022,17086
+Virginia,51670,Hopewell city,4020,5430,9608
+Virginia,51678,Lexington city,906,1791,2762
+Virginia,51680,Lynchburg city,17097,18048,36363
+Virginia,51683,Manassas city,6256,10356,16968
+Virginia,51685,Manassas Park city,1979,3992,6087
+Virginia,51690,Martinsville city,2165,3766,6013
+Virginia,51700,Newport News city,26377,53099,81203
+Virginia,51710,Norfolk city,23443,64440,89881
+Virginia,51720,Norton city,1109,464,1601
+Virginia,51730,Petersburg city,1584,12389,14118
+Virginia,51735,Poquoson city,5605,2054,7857
+Virginia,51740,Portsmouth city,12755,30948,44582
+Virginia,51750,Radford city,2786,3358,6320
+Virginia,51760,Richmond city,16603,92175,111159
+Virginia,51770,Roanoke city,15607,26773,43323
+Virginia,51775,Salem city,7683,5148,13051
+Virginia,51790,Staunton city,5695,6981,12990
+Virginia,51800,Suffolk city,20082,28676,49642
+Virginia,51810,Virginia Beach city,105087,117393,227561
+Virginia,51820,Waynesboro city,5507,4961,10717
+Virginia,51830,Williamsburg city,1963,4790,6883
+Virginia,51840,Winchester city,5221,6610,12106

@@ -1,0 +1,11 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+New Hampshire,33001,Belknap County,20899,16894,38453
+New Hampshire,33003,Carroll County,16150,16649,33272
+New Hampshire,33005,Cheshire County,17892,25506,44206
+New Hampshire,33007,Coos County,8617,7640,16528
+New Hampshire,33009,Grafton County,19905,33180,53989
+New Hampshire,33011,Hillsborough County,104625,122344,231040
+New Hampshire,33013,Merrimack County,39711,48533,89887
+New Hampshire,33015,Rockingham County,95858,100064,198943
+New Hampshire,33017,Strafford County,30489,41721,73729
+New Hampshire,33019,Sullivan County,11508,12390,24383

@@ -1,0 +1,4 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Delaware,10001,Kent County,41009,44552,87025
+Delaware,10003,New Castle County,88364,195034,287633
+Delaware,10005,Sussex County,71230,56682,129352

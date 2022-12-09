@@ -1,0 +1,88 @@
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes
+Minnesota,27001,Aitkin County,6258,3607,10025
+Minnesota,27003,Anoka County,104902,100893,211132
+Minnesota,27005,Becker County,12438,6589,19401
+Minnesota,27007,Beltrami County,12188,11426,24189
+Minnesota,27009,Benton County,14382,7280,22260
+Minnesota,27011,Big Stone County,1863,1053,2974
+Minnesota,27013,Blue Earth County,16731,18330,36051
+Minnesota,27015,Brown County,9552,4753,14635
+Minnesota,27017,Carlton County,9791,10098,20369
+Minnesota,27019,Carver County,34009,30774,66361
+Minnesota,27021,Cass County,11620,6342,18289
+Minnesota,27023,Chippewa County,4250,2226,6611
+Minnesota,27025,Chisago County,21916,11806,34570
+Minnesota,27027,Clay County,15043,16357,32239
+Minnesota,27029,Clearwater County,3372,1260,4708
+Minnesota,27031,Cook County,1203,2496,3806
+Minnesota,27033,Cottonwood County,4165,1834,6107
+Minnesota,27035,Crow Wing County,25676,13726,40173
+Minnesota,27037,Dakota County,109638,146155,262259
+Minnesota,27039,Dodge County,7783,4079,12187
+Minnesota,27041,Douglas County,15799,7868,24165
+Minnesota,27043,Faribault County,5191,2531,7914
+Minnesota,27045,Fillmore County,7301,4551,12141
+Minnesota,27047,Freeborn County,9578,6889,16818
+Minnesota,27049,Goodhue County,16052,11806,28636
+Minnesota,27051,Grant County,2269,1300,3654
+Minnesota,27053,Hennepin County,205973,532623,755969
+Minnesota,27055,Houston County,6334,4853,11440
+Minnesota,27057,Hubbard County,8202,4462,12965
+Minnesota,27059,Isanti County,16491,7138,24235
+Minnesota,27061,Itasca County,15239,10786,26561
+Minnesota,27063,Jackson County,3948,1745,5819
+Minnesota,27065,Kanabec County,6278,2774,9242
+Minnesota,27067,Kandiyohi County,14437,8440,23367
+Minnesota,27069,Kittson County,1546,1006,2639
+Minnesota,27071,Koochiching County,4131,2659,6922
+Minnesota,27073,Lac qui Parle County,2528,1446,4040
+Minnesota,27075,Lake County,3393,3647,7202
+Minnesota,27077,Lake of the Woods County,1704,671,2408
+Minnesota,27079,Le Sueur County,10775,5672,16818
+Minnesota,27081,Lincoln County,2121,937,3115
+Minnesota,27083,Lyon County,7979,4634,12893
+Minnesota,27085,McLeod County,13986,6413,20933
+Minnesota,27087,Mahnomen County,1142,1112,2304
+Minnesota,27089,Marshall County,3721,1295,5113
+Minnesota,27091,Martin County,7480,3305,11009
+Minnesota,27093,Meeker County,9359,3867,13529
+Minnesota,27095,Mille Lacs County,9952,4404,14689
+Minnesota,27097,Morrison County,14821,4367,19558
+Minnesota,27099,Mower County,10025,8899,19345
+Minnesota,27101,Murray County,3363,1449,4896
+Minnesota,27103,Nicollet County,9018,9622,19125
+Minnesota,27105,Nobles County,5600,2933,8715
+Minnesota,27107,Norman County,1953,1404,3441
+Minnesota,27109,Olmsted County,39692,49491,91385
+Minnesota,27111,Otter Tail County,23800,11958,36399
+Minnesota,27113,Pennington County,4532,2568,7277
+Minnesota,27115,Pine County,10256,5419,16001
+Minnesota,27117,Pipestone County,3553,1306,4940
+Minnesota,27119,Polk County,9865,5439,15594
+Minnesota,27121,Pope County,4417,2477,7022
+Minnesota,27123,Ramsey County,77376,211620,295977
+Minnesota,27125,Red Lake County,1454,691,2196
+Minnesota,27127,Redwood County,5771,2355,8284
+Minnesota,27129,Renville County,5467,2496,8128
+Minnesota,27131,Rice County,17464,17402,35686
+Minnesota,27133,Rock County,3583,1556,5240
+Minnesota,27135,Roseau County,6065,2188,8421
+Minnesota,27137,St. Louis County,49017,67704,119531
+Minnesota,27139,Scott County,45872,40040,87965
+Minnesota,27141,Sherburne County,36222,18065,55612
+Minnesota,27143,Sibley County,5864,2417,8452
+Minnesota,27145,Stearns County,50959,31879,84835
+Minnesota,27147,Steele County,12656,7917,21128
+Minnesota,27149,Stevens County,3044,1922,5085
+Minnesota,27151,Swift County,3316,1784,5193
+Minnesota,27153,Todd County,9753,3286,13257
+Minnesota,27155,Traverse County,1172,661,1864
+Minnesota,27157,Wabasha County,8153,4696,13123
+Minnesota,27159,Wadena County,5520,2023,7677
+Minnesota,27161,Waseca County,6624,3496,10389
+Minnesota,27163,Washington County,73764,89165,166786
+Minnesota,27165,Watonwan County,3103,1987,5201
+Minnesota,27167,Wilkin County,2328,1026,3430
+Minnesota,27169,Winona County,13227,13333,27173
+Minnesota,27171,Wright County,51973,28430,82426
+Minnesota,27173,Yellow Medicine County,3734,1688,5528
